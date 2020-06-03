@@ -26,7 +26,7 @@ Clone the repository, open the project in Android Studio, hit "Run". Done!
 -   Firebase Firestore
 -   Recycler View
 -   Card View
--   Cicle image View
+-   Circle image View
 -   Navigation Drawer
 
 ## Screenshots Of the App:
