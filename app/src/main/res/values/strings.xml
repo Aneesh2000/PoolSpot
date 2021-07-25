@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MisfitCoders</string>
+    <string name="open" />
+    <string name="close" />
+</resources>
